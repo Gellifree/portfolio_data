@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Első projekt",
+    "description": "Ez egy próba projekt, amit GitHub JSON-ból töltök be.",
+    "link": "https://example.com",
+    "image": "https://via.placeholder.com/600x300"
+  },
+  {
+    "title": "Második projekt",
+    "description": "Még egy próba adat.",
+    "link": "https://example.com/2",
+    "image": "https://via.placeholder.com/600x300"
+  }
+]
