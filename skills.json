@@ -1,17 +1,27 @@
 {
   "Frontend": [
     "Vue.js",
-    "HTML5",
-    "CSS3",
+    "Angular",
+    "Razor Pages / Blazor",
+    "Javascript",
+    "HTML 5",
+    "CSS 3",
     "Bootstrap 5"
   ],
   "Backend": [
-    "ASP.NET",
+    "ASP.NET Core",
     "Python 3",
-    "MSSQL/MySql"
+    "MSSQL/MySql/SqLite",
+    "C / C++",
+    "PHP / Codeigniter"
   ],
   "Tools": [
-    "Git"
+    "Git",
+    "Figma / Penpot",
+    "Adobe Creative Cloud",
+    "Linux / Shell script",
+    "LaTeX",
+    "GdScript / Godot Game Engine"
   ],
   "Languages": [
     "English – Professional working proficiency",
