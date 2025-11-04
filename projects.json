@@ -1,20 +1,30 @@
-[
+﻿[
   {
-    "title": "First project title",
-    "description": "Project description of first project.",
-    "github": "nolink",
-    "tech": ["Vue.js", "Bootstrap", "JSON"]
+    "Id": "",
+    "Title": "First project title",
+    "Description": "Project description of first project.",
+    "Link": "",
+    "Image": ""
   },
   {
-    "title": "Second project title",
-    "description": "Project description",
-    "github": "nolink",
-    "tech": ["Vue.js", "Bootstrap"]
+    "Id": "",
+    "Title": "Second project title",
+    "Description": "Project description",
+    "Link": "",
+    "Image": ""
   },
   {
-    "title": "Third project title",
-    "description": "Project description",
-    "github": "nolink",
-    "tech": ["Vue.js", "Bootstrap", "JSON", "Tech"]
+    "Id": "",
+    "Title": "Third project title",
+    "Description": "Project description",
+    "Link": "",
+    "Image": ""
+  },
+  {
+    "Id": "20251104170542-754560",
+    "Title": "thujikthjk",
+    "Description": "ghjkghjk",
+    "Link": "ghjkghjk",
+    "Image": "ghjkghjk"
   }
 ]
