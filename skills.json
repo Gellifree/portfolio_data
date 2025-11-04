@@ -1,0 +1,16 @@
+{
+  "Frontend": [
+    "Vue.js",
+    "HTML5",
+    "CSS3",
+    "Bootstrap 5"
+  ],
+  "Backend": [
+    "ASP.NET",
+    "Python 3",
+    "MSSQL/MySql"
+  ],
+  "Tools": [
+    "Git"
+  ]
+}

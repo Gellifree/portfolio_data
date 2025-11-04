@@ -1,23 +1,20 @@
 [
   {
-    "Id": "20250831164533-6718bb",
-    "Title": "First project title Modification 1",
-    "Description": "Project description",
-    "Link": "no link",
-    "Image": "no image"
+    "title": "First project title",
+    "description": "Project description",
+    "github": "nolink",
+    "tech": ["Vue.js", "Bootstrap", "JSON"]
   },
   {
-    "Id": "20250831164547-5a16d4",
-    "Title": "Second project title Modification 2",
-    "Description": "Second project description",
-    "Link": "",
-    "Image": ""
+    "title": "Second project title",
+    "description": "Project description",
+    "github": "nolink",
+    "tech": ["Vue.js", "Bootstrap"]
   },
   {
-    "Id": "20251018165836-7e2daf",
-    "Title": "Third project in list",
-    "Description": "Descriptioooon",
-    "Link": "no link",
-    "Image": "no img"
+    "title": "Third project title",
+    "description": "Project description",
+    "github": "nolink",
+    "tech": ["Vue.js", "Bootstrap", "JSON", "Tech"]
   }
 ]
