@@ -11,7 +11,7 @@
   "Backend": [
     "ASP.NET Core",
     "Python 3",
-    "MSSQL/MySql/SqLite",
+    "MSSQL / MySql / SqLite",
     "C / C++",
     "PHP / Codeigniter"
   ],
@@ -21,7 +21,7 @@
     "Adobe Creative Cloud",
     "Linux / Shell script",
     "LaTeX",
-    "GdScript / Godot Game Engine"
+    "GdScript / Godot"
   ],
   "Languages": [
     "English – Professional working proficiency",
