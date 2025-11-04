@@ -1,32 +1,26 @@
 [
   {
-    "title": "First project title",
-    "description": "Project description of first project.",
-    "github": "nolink",
+    "title": "Innovitech Currency Converter",
+    "description": "A simple console application that performs currency conversions using real-time exchange rates.",
+    "github": "https://github.com/Gellifree/innovitech_currency_converter",
     "tech": [
-      "Vue.js",
-      "Bootstrap",
-      "JSON"
+      "Python"
     ]
   },
   {
-    "title": "Second project title",
-    "description": "Project description",
-    "github": "nolink",
+    "title": "BinOp - Binary Operations",
+    "description": "A console app for performing and experimenting with binary operations.",
+    "github": "https://github.com/Gellifree/BinOp",
     "tech": [
-      "Vue.js",
-      "Bootstrap"
+      "Python"
     ]
   },
   {
-    "title": "Third project title",
-    "description": "Project description",
-    "github": "nolink",
+    "title": "Portfolio - Admin application",
+    "description": "An admin application for managing the data displayed on the portfolio website.",
+    "github": "https://github.com/Gellifree/portfolio_admin",
     "tech": [
-      "Vue.js",
-      "Bootstrap",
-      "JSON",
-      "Tech"
+      "Razor Pages / Blazor"
     ]
   }
 ]
