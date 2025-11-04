@@ -15,5 +15,17 @@
       "title": "High School Diploma",
       "description": "János Vak Bottyán Catholic Technical and Economics Secondary School"
     }
+  ],
+  "Work": [
+    {
+      "date": "2022 - Present",
+      "title": "Medior Application Developer",
+      "description": "ZF Hungária IT Center"
+    },
+    {
+      "date": "2019 - 2021",
+      "title": "Volunteer Programming Instructor",
+      "description": "Dr. Code – Teaching basic programming to students"
+    }
   ]
 }
