@@ -1,5 +1,8 @@
 {
   "name": "Norbert Kovács",
   "title": "Medior Application Developer",
-  "about": "I'm Norbert, a medior application developer passionate about building elegant solutions to complex problems. With 4 years of experience, I specialize in full-stack development and creating seamless user experiences. Currently focused on exploring modern web technologies, contributing to open source, and continuously expanding my technical expertise."
+  "about": [
+    "I'm Norbert, a medior application developer passionate about building elegant solutions to complex problems. With 4 years of experience, I specialize in full-stack development and creating seamless user experiences. Currently focused on exploring modern web technologies, contributing to open source, and continuously expanding my technical expertise.",
+    "This is an other text block."
+  ]
 }
