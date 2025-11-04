@@ -1,7 +1,7 @@
 [
   {
     "title": "First project title",
-    "description": "Project description",
+    "description": "Project description of first project.",
     "github": "nolink",
     "tech": ["Vue.js", "Bootstrap", "JSON"]
   },
