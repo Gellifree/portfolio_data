@@ -22,13 +22,5 @@
     "tech": [
       "Razor Pages / Blazor"
     ]
-  },
-  {
-    "title": "Thesis – Detailed Description of Key Management",
-    "description": "A university thesis document providing an in-depth overview of my work within the team, focusing on processes and concepts without including any internal or code-specific details.",
-    "github": "https://github.com/Gellifree/ekke-portfolio",
-    "tech": [
-      "LaTeX"
-    ]
   }
 ]
