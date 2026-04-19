@@ -6,11 +6,12 @@
       "title": "Higher Vocational Certificate in Software Development",
       "description": "Eszterházy Károly Catholic University – Correspondence Program",
       "ModalDetails": {
-        "ModalTitle": "Title",
+        "ModalTitle": "Software Development Studies",
         "ModalContent": [
-          "I had the opportunity to learn multiple aspects of programming...",
-          "Also lorem ipsum",
-          "And other ipsum lorem."
+          "Focused on practical software development skills alongside full-time work, which significantly improved my problem-solving and time management abilities.",
+          "Worked with multiple programming languages and paradigms, including object-oriented design and basic software architecture principles.",
+          "Gained experience in backend development, databases, and building small scale applications.",
+          "The correspondence format required a high level of self-discipline and independent learning."
         ]
       }
     },
@@ -20,11 +21,12 @@
       "title": "BSc in Computer Science (incomplete)",
       "description": "Eszterházy Károly Catholic University – Full-time Program",
       "ModalDetails": {
-        "ModalTitle": "Title",
+        "ModalTitle": "Computer Science Studies",
         "ModalContent": [
-          "I had the opportunity to learn multiple aspects of programming...",
-          "Also lorem ipsum",
-          "And other ipsum lorem."
+          "Built a strong theoretical foundation in computer science, including algorithms, data structures, and system fundamentals.",
+          "Learned low-level programming concepts and gained insight into how software interacts with hardware.",
+          "Although I did not complete the degree, this period played a key role in shaping my technical thinking.",
+          "Transitioned from theory-heavy education to a more practical, hands-on development path."
         ]
       }
     },
@@ -34,11 +36,11 @@
       "title": "High School Diploma",
       "description": "János Vak Bottyán Catholic Technical and Economics Secondary School",
       "ModalDetails": {
-        "ModalTitle": "Title",
+        "ModalTitle": "Secondary Education",
         "ModalContent": [
-          "I had the opportunity to learn multiple aspects of programming...",
-          "Also lorem ipsum",
-          "And other ipsum lorem."
+          "Studied basic IT and English, which sparked my initial interest in programming and technology.",
+          "Developed early analytical thinking and problem-solving skills.",
+          "This period laid the foundation for my later transition into software development."
         ]
       }
     }
@@ -49,11 +51,13 @@
       "title": "Medior Application Developer",
       "description": "ZF Hungária IT Center",
       "ModalDetails": {
-        "ModalTitle": "Title",
+        "ModalTitle": "Medior Application Developer – ZF",
         "ModalContent": [
-          "I had the opportunity to learn multiple aspects of programming...",
-          "Also lorem ipsum",
-          "And other ipsum lorem."
+          "Working as an application developer primarily with .NET technologies in an enterprise environment.",
+          "Acting as a technical lead on a project, responsible for system design decisions and architecture planning.",
+          "Collaborating daily in an international team, using English as the primary working language.",
+          "Handling unclear or evolving requirements by designing flexible and maintainable solutions.",
+          "Contributing to improving development processes and code quality within the team."
         ]
       }
     },
@@ -62,11 +66,12 @@
       "title": "Volunteer Programming Instructor",
       "description": "Dr. Code – Teaching basic programming to students",
       "ModalDetails": {
-        "ModalTitle": "Title",
+        "ModalTitle": "Programming Instructor – Dr. Code",
         "ModalContent": [
-          "I had the opportunity to learn multiple aspects of programming...",
-          "Also lorem ipsum",
-          "And other ipsum lorem."
+          "Taught basic programming concepts to students, focusing on logic, problem-solving, and algorithmic thinking.",
+          "Explained complex technical topics in a simple and understandable way.",
+          "Developed communication and mentoring skills that I still use in professional environments.",
+          "This experience strengthened my understanding of fundamentals by teaching them to others."
         ]
       }
     }
