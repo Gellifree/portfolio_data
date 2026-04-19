@@ -7,11 +7,12 @@
       "Python"
     ],
     "ModalDetails": {
-      "ModalTitle": "Title",
+      "ModalTitle": "Currency Converter – API Integration Project",
       "ModalContent": [
-        "I had the opportunity to learn multiple aspects of programming...",
-        "Also lorem ipsum",
-        "And other ipsum lorem."
+        "Implemented a console-based application that retrieves real-time exchange rates from an external API.",
+        "Focused on clean separation of concerns between data fetching, business logic, and user interaction.",
+        "Handled API communication, error cases, and fallback scenarios to ensure reliability.",
+        "This project helped deepen my understanding of working with external services and data validation."
       ]
     }
   },
@@ -23,11 +24,12 @@
       "Python"
     ],
     "ModalDetails": {
-      "ModalTitle": "Title",
+      "ModalTitle": "Binary Operations Tool",
       "ModalContent": [
-        "I had the opportunity to learn multiple aspects of programming...",
-        "Also lorem ipsum",
-        "And other ipsum lorem."
+        "Developed a console application to perform and visualize binary operations and conversions.",
+        "Focused on implementing operations manually instead of relying on built-in language features to better understand low-level behavior.",
+        "Designed the application to be educational, making binary logic easier to follow step-by-step.",
+        "Strengthened my understanding of how computers handle data at a fundamental level."
       ]
     }
   },
@@ -39,11 +41,12 @@
       "Razor Pages / Blazor"
     ],
     "ModalDetails": {
-      "ModalTitle": "Title",
+      "ModalTitle": "Portfolio Admin Tool",
       "ModalContent": [
-        "I had the opportunity to learn multiple aspects of programming...",
-        "Also lorem ipsum",
-        "And other ipsum lorem."
+        "Built a web-based admin interface to manage the content of my portfolio site dynamically.",
+        "Designed the system around JSON-based data storage, enabling a lightweight and flexible content management approach.",
+        "Implemented forms and validation to edit projects, CV entries, and other sections without directly modifying code.",
+        "This project reflects my focus on building maintainable systems and reducing manual content updates."
       ]
     }
   }
