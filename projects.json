@@ -5,7 +5,15 @@
     "github": "https://github.com/Gellifree/innovitech_currency_converter",
     "tech": [
       "Python"
-    ]
+    ],
+    "ModalDetails": {
+      "ModalTitle": "Title",
+      "ModalContent": [
+        "I had the opportunity to learn multiple aspects of programming...",
+        "Also lorem ipsum",
+        "And other ipsum lorem."
+      ]
+    }
   },
   {
     "title": "BinOp - Binary Operations",
@@ -13,7 +21,15 @@
     "github": "https://github.com/Gellifree/BinOp",
     "tech": [
       "Python"
-    ]
+    ],
+    "ModalDetails": {
+      "ModalTitle": "Title",
+      "ModalContent": [
+        "I had the opportunity to learn multiple aspects of programming...",
+        "Also lorem ipsum",
+        "And other ipsum lorem."
+      ]
+    }
   },
   {
     "title": "Portfolio - Admin application",
@@ -21,6 +37,14 @@
     "github": "https://github.com/Gellifree/portfolio_admin",
     "tech": [
       "Razor Pages / Blazor"
-    ]
+    ],
+    "ModalDetails": {
+      "ModalTitle": "Title",
+      "ModalContent": [
+        "I had the opportunity to learn multiple aspects of programming...",
+        "Also lorem ipsum",
+        "And other ipsum lorem."
+      ]
+    }
   }
 ]
