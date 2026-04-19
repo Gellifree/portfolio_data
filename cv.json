@@ -47,12 +47,28 @@
     {
       "date": "2022 - Present",
       "title": "Medior Application Developer",
-      "description": "ZF Hungária IT Center"
+      "description": "ZF Hungária IT Center",
+      "ModalDetails": {
+        "ModalTitle": "Title",
+        "ModalContent": [
+          "I had the opportunity to learn multiple aspects of programming...",
+          "Also lorem ipsum",
+          "And other ipsum lorem."
+        ]
+      }
     },
     {
       "date": "2019 - 2021",
       "title": "Volunteer Programming Instructor",
-      "description": "Dr. Code – Teaching basic programming to students"
+      "description": "Dr. Code – Teaching basic programming to students",
+      "ModalDetails": {
+        "ModalTitle": "Title",
+        "ModalContent": [
+          "I had the opportunity to learn multiple aspects of programming...",
+          "Also lorem ipsum",
+          "And other ipsum lorem."
+        ]
+      }
     }
   ]
 }
